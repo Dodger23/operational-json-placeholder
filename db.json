@@ -1,0 +1,79 @@
+{
+    "losses": {
+        "total": 3250000,
+        "values": 2500000
+    },
+    "meters-faliures": {
+        "categories": ["Faliures", "Work orders"],
+        "values": [
+            {
+                "date": "1612044000000",
+                "Faliures":4400,
+                "Work orders": 2300
+            },
+            {
+                "date": "1614463200000",
+                "Faliures":9500,
+                "Work orders": 5600
+            },
+            {
+                "date": "1617141600000",
+                "Faliures":4000,
+                "Work orders": 6000
+            },
+            {
+                "date": "1619733600000",
+                "Faliures":5000,
+                "Work orders": 8000
+            }
+        ]
+    },
+    "installations": {
+        "categories": ["Pending", "Finished"],
+        "values": [
+            {
+                "date": "1612044000000",
+                "Pending":4400,
+                "Finished": 2300
+            },
+            {
+                "date": "1614463200000",
+                "Pending":9500,
+                "Finished": 5600
+            },
+            {
+                "date": "1617141600000",
+                "Pending":4000,
+                "Finished": 6000
+            },
+            {
+                "date": "1619733600000",
+                "Pending":5000,
+                "Finished": 8000
+            }
+        ]
+    },
+    "communication-faliure": {
+        "categories": ["Reason A", "Reason B", "Reason C"],
+        "values": [
+            {
+                "type": "Reason A",
+                "value": 6000
+            },
+            {
+                "type": "Reason B",
+                "value": 6000
+            },
+            {
+                "type": "Reason C",
+                "value": 6000
+            }
+        ]
+    },
+    "operational-stats": {
+        "successRatio": 3500,
+        "connectedMeters": 5600,
+        "tmbers": 7000,
+        "work orders": 400
+    }
+  }
