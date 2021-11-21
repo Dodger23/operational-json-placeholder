@@ -73,7 +73,7 @@
     "operational-stats": {
         "successRatio": 3500,
         "connectedMeters": 5600,
-        "tmbers": 7000,
-        "work orders": 400
+        "tambers": 7000,
+        "workOrders": 400
     }
   }
