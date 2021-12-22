@@ -1,11 +1,11 @@
 {
     "losses": {
         "total": 3250000,
-        "values": 2500000
+        "data": 2500000
     },
     "meters-faliures": {
         "categories": ["Faliures", "Work orders"],
-        "values": [
+        "data": [
             {
                 "date": "1612044000000",
                 "Faliures":4400,
@@ -30,7 +30,7 @@
     },
     "installations": {
         "categories": ["Pending", "Finished"],
-        "values": [
+        "data": [
             {
                 "date": "1612044000000",
                 "Pending":4400,
@@ -55,7 +55,7 @@
     },
     "communication-faliure": {
         "categories": ["Reason A", "Reason B", "Reason C"],
-        "values": [
+        "data": [
             {
                 "type": "Reason A",
                 "value": 6000
