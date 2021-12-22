@@ -29,25 +29,24 @@
         ]
     },
     "installations": {
-        "categories": ["Pending", "Finished"],
         "data": [
             {
-                "date": "1612044000000",
+                "months": "12-2021",
                 "Pending":4400,
                 "Finished": 2300
             },
             {
-                "date": "1614463200000",
+                "months": "11-2021",
                 "Pending":9500,
                 "Finished": 5600
             },
             {
-                "date": "1617141600000",
+                "months": "10-2021",
                 "Pending":4000,
                 "Finished": 6000
             },
             {
-                "date": "1619733600000",
+                "months": "9-2021",
                 "Pending":5000,
                 "Finished": 8000
             }
