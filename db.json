@@ -32,23 +32,23 @@
         "data": [
             {
                 "months": "12-2021",
-                "Pending":4400,
-                "Finished": 2300
+                "pending":4400,
+                "finished": 2300
             },
             {
                 "months": "11-2021",
-                "Pending":9500,
-                "Finished": 5600
+                "pending":9500,
+                "finished": 5600
             },
             {
                 "months": "10-2021",
-                "Pending":4000,
-                "Finished": 6000
+                "pending":4000,
+                "finished": 6000
             },
             {
                 "months": "9-2021",
-                "Pending":5000,
-                "Finished": 8000
+                "pending":5000,
+                "finished": 8000
             }
         ]
     },
